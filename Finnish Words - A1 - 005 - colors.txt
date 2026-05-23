@@ -1,0 +1,22 @@
+#separator:tab
+#html:true
+punainen	red	1. Auto on punainen.<br>2. Minulla on punainen paita.<br>3. Omena on punainen.	1. The car is red.<br>2. I have a red shirt.<br>3. The apple is red.	topic::colors
+sininen	blue	1. Taivas on sininen.<br>2. Hänellä on sininen takki.<br>3. Tämä kukka on sininen.	1. The sky is blue.<br>2. He has a blue jacket.<br>3. This flower is blue.	topic::colors
+vihreä	green	1. Ruoho on vihreä.<br>2. Minulla on vihreä laukku.<br>3. Puu on vihreä.	1. The grass is green.<br>2. I have a green bag.<br>3. The tree is green.	topic::colors
+keltainen	yellow	1. Banaani on keltainen.<br>2. Aurinko on keltainen.<br>3. Hänellä on keltainen hattu.	1. The banana is yellow.<br>2. The sun is yellow.<br>3. She has a yellow hat.	topic::colors
+musta	black	1. Kissa on musta.<br>2. Minulla on mustat kengät.<br>3. Tämä auto on musta.	1. The cat is black.<br>2. I have black shoes.<br>3. This car is black.	topic::colors
+valkoinen	white	1. Lumi on valkoinen.<br>2. Koira on valkoinen.<br>3. Hänellä on valkoinen paita.	1. The snow is white.<br>2. The dog is white.<br>3. He has a white shirt.	topic::colors
+harmaa	grey	1. Taivas on harmaa tänään.<br>2. Kivi on harmaa.<br>3. Minulla on harmaa takki.	1. The sky is grey today.<br>2. The stone is grey.<br>3. I have a grey jacket.	topic::colors
+oranssi	orange	1. Appelsiini on oranssi.<br>2. Hänellä on oranssi paita.<br>3. Tämä kukka on oranssi.	1. The orange is orange.<br>2. She has an orange shirt.<br>3. This flower is orange.	topic::colors
+vaaleanpunainen	pink	1. Ruusu on vaaleanpunainen.<br>2. Hänellä on vaaleanpunainen mekko.<br>3. Tämä väri on vaaleanpunainen.	1. The rose is pink.<br>2. She has a pink dress.<br>3. This color is pink.	topic::colors
+ruskea	brown	1. Koira on ruskea.<br>2. Pöytä on ruskea.<br>3. Minulla on ruskeat hiukset.	1. The dog is brown.<br>2. The table is brown.<br>3. I have brown hair.	topic::colors
+violetti	purple	1. Kukka on violetti.<br>2. Hänellä on violetti paita.<br>3. Tämä väri on violetti.	1. The flower is purple.<br>2. He has a purple shirt.<br>3. This color is purple.	topic::colors
+väri	color	1. Mikä väri tämä on?<br>2. Minun lempivärini on sininen.<br>3. Tällä autolla on kaunis väri.	1. What color is this?<br>2. My favorite color is blue.<br>3. This car has a beautiful color.	topic::colors
+vaalea	light, pale	1. Hänellä on vaalea paita.<br>2. Tämä väri on vaalea.<br>3. Hänellä on vaaleat hiukset.	1. She has a light shirt.<br>2. This color is light.<br>3. She has light hair.	topic::colors
+tumma	dark	1. Tämä väri on tumma.<br>2. Hänellä on tummat hiukset.<br>3. Minulla on tumma takki.	1. This color is dark.<br>2. He has dark hair.<br>3. I have a dark jacket.	topic::colors
+kirkas	bright, vivid	1. Tämä väri on kirkas.<br>2. Hänellä on kirkas paita.<br>3. Aurinko on kirkas.	1. This color is bright.<br>2. She has a bright shirt.<br>3. The sun is bright.	topic::colors
+värillinen	colorful, colored	1. Tämä on värillinen kuva.<br>2. Hänellä on värillinen paita.<br>3. Kukat ovat värillisiä.	1. This is a colorful picture.<br>2. He has a colorful shirt.<br>3. The flowers are colorful.	topic::colors
+maalata	to paint	1. Maalaan seinän valkoiseksi.<br>2. Lapsi maalaa kuvaa.<br>3. Hän maalaa punaisen auton.	1. I paint the wall white.<br>2. The child is painting a picture.<br>3. She paints a red car.	topic::colors
+näyttää	to look, to seem	1. Auto näyttää punaiselta.<br>2. Taivas näyttää siniseltä.<br>3. Tämä paita näyttää vihreältä.	1. The car looks red.<br>2. The sky looks blue.<br>3. This shirt looks green.	topic::colors
+lempiväri	favorite color	1. Mikä on sinun lempivärisi?<br>2. Minun lempivärini on punainen.<br>3. Hänen lempivärinsä on sininen.	1. What is your favorite color?<br>2. My favorite color is red.<br>3. His favorite color is blue.	topic::colors
+samanvärinen	same color	1. Nämä kaksi autoa ovat samanväriset.<br>2. Paitasi on samanvärinen kuin minun.<br>3. Onko nämä samanväriset?	1. These two cars are the same color.<br>2. Your shirt is the same color as mine.<br>3. Are these the same color?	topic::colors

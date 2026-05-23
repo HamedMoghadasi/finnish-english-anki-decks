@@ -1,0 +1,27 @@
+#separator:tab
+#html:true
+sää	weather	1. Sää on hyvä.<br>2. Millainen sää on?<br>3. Sää on huono tänään.	1. The weather is good.<br>2. What is the weather like?<br>3. The weather is bad today.	topic::weather topic::climate topic::seasons
+aurinko	sun	1. Aurinko paistaa.<br>2. Aurinko on iso.<br>3. Aurinko paistaa tänään.	1. The sun is shining.<br>2. The sun is big.<br>3. The sun shines today.	topic::weather topic::climate topic::seasons
+sade	rain	1. Sade on voimakas.<br>2. Sade tulee.<br>3. Minä en pidä sateesta.	1. The rain is heavy.<br>2. The rain is coming.<br>3. I do not like rain.	topic::weather topic::climate topic::seasons
+lumi	snow	1. Lumi on valkoinen.<br>2. Lumi sataa.<br>3. Lapsi leikkii lumessa.	1. Snow is white.<br>2. It is snowing.<br>3. The child plays in the snow.	topic::weather topic::climate topic::seasons
+tuuli	wind	1. Tuuli on kylmä.<br>2. Tuuli puhaltaa.<br>3. Tuuli on voimakas.	1. The wind is cold.<br>2. The wind is blowing.<br>3. The wind is strong.	topic::weather topic::climate topic::seasons
+talvi	winter	1. Talvi on kylmä.<br>2. Minä pidän talvesta.<br>3. Talvella sataa lunta.	1. Winter is cold.<br>2. I like winter.<br>3. It snows in winter.	topic::weather topic::climate topic::seasons
+kesä	summer	1. Kesä on lämmin.<br>2. Kesällä on kuuma.<br>3. Minä pidän kesästä.	1. Summer is warm.<br>2. It is hot in summer.<br>3. I like summer.	topic::weather topic::climate topic::seasons
+kevät	spring	1. Kevät on kaunis.<br>2. Keväällä on lämmin.<br>3. Kevät tulee pian.	1. Spring is beautiful.<br>2. It is warm in spring.<br>3. Spring is coming soon.	topic::weather topic::climate topic::seasons
+syksy	autumn, fall	1. Syksy on viileä.<br>2. Syksyllä sataa paljon.<br>3. Minä pidän syksystä.	1. Autumn is cool.<br>2. It rains a lot in autumn.<br>3. I like autumn.	topic::weather topic::climate topic::seasons
+lämpötila	temperature	1. Lämpötila on kymmenen astetta.<br>2. Lämpötila on korkea.<br>3. Mikä on lämpötila?	1. The temperature is ten degrees.<br>2. The temperature is high.<br>3. What is the temperature?	topic::weather topic::climate topic::seasons
+pilvi	cloud	1. Taivas on täynnä pilviä.<br>2. Pilvi on iso.<br>3. Pilvinen päivä on harmaa.	1. The sky is full of clouds.<br>2. The cloud is big.<br>3. A cloudy day is grey.	topic::weather topic::climate topic::seasons
+kylmä	cold	1. Tänään on kylmä.<br>2. Vesi on kylmä.<br>3. Minulla on kylmä.	1. It is cold today.<br>2. The water is cold.<br>3. I am cold.	topic::weather topic::climate topic::seasons
+lämmin	warm	1. Ulkona on lämmin.<br>2. Kahvi on lämmin.<br>3. Kesä on lämmin.	1. It is warm outside.<br>2. The coffee is warm.<br>3. Summer is warm.	topic::weather topic::climate topic::seasons
+kuuma	hot	1. Tänään on kuuma.<br>2. Aurinko on kuuma.<br>3. Ruoka on kuuma.	1. It is hot today.<br>2. The sun is hot.<br>3. The food is hot.	topic::weather topic::climate topic::seasons
+sataa	to rain, to snow	1. Tänään sataa.<br>2. Sataa lunta.<br>3. Ulkona sataa vettä.	1. It is raining today.<br>2. It is snowing.<br>3. It is raining outside.	topic::weather topic::climate topic::seasons
+paistaa	to shine	1. Aurinko paistaa.<br>2. Aurinko paistaa tänään.<br>3. Aurinko ei paista.	1. The sun is shining.<br>2. The sun shines today.<br>3. The sun is not shining.	topic::weather topic::climate topic::seasons
+puhaltaa	to blow	1. Tuuli puhaltaa.<br>2. Tuuli puhaltaa kovaa.<br>3. Tuuli ei puhalla tänään.	1. The wind is blowing.<br>2. The wind blows hard.<br>3. The wind is not blowing today.	topic::weather topic::climate topic::seasons
+viileä	cool	1. Ilma on viileä.<br>2. Syksyllä on viileä.<br>3. Vesi on viileä.	1. The air is cool.<br>2. It is cool in autumn.<br>3. The water is cool.	topic::weather topic::climate topic::seasons
+aurinkoinen	sunny	1. Tänään on aurinkoinen päivä.<br>2. Sää on aurinkoinen.<br>3. Kesä on aurinkoinen.	1. Today is a sunny day.<br>2. The weather is sunny.<br>3. Summer is sunny.	topic::weather topic::climate topic::seasons
+pilvinen	cloudy	1. Tänään on pilvinen päivä.<br>2. Sää on pilvinen.<br>3. Taivas on pilvinen.	1. Today is a cloudy day.<br>2. The weather is cloudy.<br>3. The sky is cloudy.	topic::weather topic::climate topic::seasons
+ilma	air, weather	1. Ilma on raikas.<br>2. Ilma on kylmä.<br>3. Ulkona ilma on lämmin.	1. The air is fresh.<br>2. The air is cold.<br>3. Outside the air is warm.	topic::weather topic::climate topic::seasons
+taivas	sky	1. Taivas on sininen.<br>2. Taivas on harmaa.<br>3. Tähdet ovat taivaalla.	1. The sky is blue.<br>2. The sky is grey.<br>3. The stars are in the sky.	topic::weather topic::climate topic::seasons
+aste	degree	1. On viisi astetta.<br>2. Lämpötila on kaksi astetta.<br>3. On kolmekymmentä astetta.	1. It is five degrees.<br>2. The temperature is two degrees.<br>3. It is thirty degrees.	topic::weather topic::climate topic::seasons
+vuodenaika	season	1. Mikä vuodenaika on?<br>2. Talvi on kylmä vuodenaika.<br>3. Minulla on lempi vuodenaika.	1. What season is it?<br>2. Winter is a cold season.<br>3. I have a favourite season.	topic::weather topic::climate topic::seasons
+sateinen	rainy	1. Tänään on sateinen päivä.<br>2. Syksy on sateinen.<br>3. Sää on sateinen.	1. Today is a rainy day.<br>2. Autumn is rainy.<br>3. The weather is rainy.	topic::weather topic::climate topic::seasons

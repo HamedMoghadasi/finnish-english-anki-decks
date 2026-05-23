@@ -1,0 +1,37 @@
+#separator:tab
+#html:true
+pää	head	1. Minulla on pää.<br>2. Pää on iso.<br>3. Hänen päänsä on pyöreä.	1. I have a head.<br>2. The head is big.<br>3. His head is round.	topic::body_parts topic::human_body
+käsi	hand, arm	1. Minulla on kaksi kättä.<br>2. Käsi on puhdas.<br>3. Hänen kätensä on lämmin.	1. I have two hands.<br>2. The hand is clean.<br>3. His hand is warm.	topic::body_parts topic::human_body
+jalka	leg, foot	1. Minulla on kaksi jalkaa.<br>2. Jalka on väsynyt.<br>3. Hänen jalkansa on pitkä.	1. I have two legs.<br>2. The leg is tired.<br>3. His leg is long.	topic::body_parts topic::human_body
+silmä	eye	1. Minulla on siniset silmät.<br>2. Silmä on märkä.<br>3. Hänellä on isot silmät.	1. I have blue eyes.<br>2. The eye is wet.<br>3. She has big eyes.	topic::body_parts topic::human_body
+suu	mouth	1. Suu on auki.<br>2. Minulla on pieni suu.<br>3. Sulje suu.	1. The mouth is open.<br>2. I have a small mouth.<br>3. Close your mouth.	topic::body_parts topic::human_body
+nenä	nose	1. Minulla on nenä.<br>2. Nenä on punainen.<br>3. Hänen nenänsä on pieni.	1. I have a nose.<br>2. The nose is red.<br>3. Her nose is small.	topic::body_parts topic::human_body
+korva	ear	1. Minulla on kaksi korvaa.<br>2. Korva on kipeä.<br>3. Hänellä on isot korvat.	1. I have two ears.<br>2. The ear is sore.<br>3. He has big ears.	topic::body_parts topic::human_body
+sydän	heart	1. Sydän lyö nopeasti.<br>2. Minulla on terve sydän.<br>3. Sydän on tärkeä.	1. The heart beats fast.<br>2. I have a healthy heart.<br>3. The heart is important.	topic::body_parts topic::human_body
+vatsa	stomach, belly	1. Vatsa on kipeä.<br>2. Minulla on nälkä vatsassa.<br>3. Hänen vatsansa on täynnä.	1. The stomach is sore.<br>2. I have hunger in my stomach.<br>3. His stomach is full.	topic::body_parts topic::human_body
+selkä	back	1. Selkä on kipeä.<br>2. Minulla on vahva selkä.<br>3. Hänen selkänsä on suora.	1. The back is sore.<br>2. I have a strong back.<br>3. His back is straight.	topic::body_parts topic::human_body
+hartia	shoulder	1. Hartia on kipeä.<br>2. Minulla on leveät hartiat.<br>3. Hänen hartiansa on vahva.	1. The shoulder is sore.<br>2. I have broad shoulders.<br>3. His shoulder is strong.	topic::body_parts topic::human_body
+rinta	chest, breast	1. Rinta on leveä.<br>2. Hänellä on vahva rinta.<br>3. Minun rintani on kipeä.	1. The chest is wide.<br>2. He has a strong chest.<br>3. My chest is sore.	topic::body_parts topic::human_body
+kyynärpää	elbow	1. Kyynärpää on kipeä.<br>2. Hän lyö kyynärpäällä.<br>3. Minun kyynärpääni on musta.	1. The elbow is sore.<br>2. He hits with his elbow.<br>3. My elbow is black.	topic::body_parts topic::human_body
+polvi	knee	1. Polvi on kipeä.<br>2. Hän kaatuu polvelle.<br>3. Minulla on vahvat polvet.	1. The knee is sore.<br>2. He falls on his knee.<br>3. I have strong knees.	topic::body_parts topic::human_body
+sormi	finger	1. Minulla on kymmenen sormea.<br>2. Sormi on pitkä.<br>3. Hän näyttää sormella.	1. I have ten fingers.<br>2. The finger is long.<br>3. She points with a finger.	topic::body_parts topic::human_body
+varvas	toe	1. Varvas on kipeä.<br>2. Minulla on kymmenen varvasta.<br>3. Hänen varpaansa on punainen.	1. The toe is sore.<br>2. I have ten toes.<br>3. His toe is red.	topic::body_parts topic::human_body
+kaula	neck, throat	1. Kaula on pitkä.<br>2. Minun kaulani on kipeä.<br>3. Hänellä on lyhyt kaula.	1. The neck is long.<br>2. My neck is sore.<br>3. She has a short neck.	topic::body_parts topic::human_body
+hius	hair	1. Hiukset ovat pitkät.<br>2. Hänellä on mustat hiukset.<br>3. Minulla on lyhyet hiukset.	1. The hair is long.<br>2. She has black hair.<br>3. I have short hair.	topic::body_parts topic::human_body
+hammas	tooth	1. Hammas on kipeä.<br>2. Minulla on valkeat hampaat.<br>3. Pese hampaat.	1. The tooth is sore.<br>2. I have white teeth.<br>3. Brush your teeth.	topic::body_parts topic::human_body
+kieli	tongue	1. Kieli on punainen.<br>2. Koira näyttää kieltä.<br>3. Minun kieleni on lyhyt.	1. The tongue is red.<br>2. The dog shows its tongue.<br>3. My tongue is short.	topic::body_parts topic::human_body
+iho	skin	1. Iho on pehmeä.<br>2. Minulla on kuiva iho.<br>3. Hänen ihonsa on lämmin.	1. The skin is soft.<br>2. I have dry skin.<br>3. His skin is warm.	topic::body_parts topic::human_body
+luu	bone	1. Luu on kova.<br>2. Minulla on vahvat luut.<br>3. Luu on rikki.	1. The bone is hard.<br>2. I have strong bones.<br>3. The bone is broken.	topic::body_parts topic::human_body
+lihas	muscle	1. Lihas on väsynyt.<br>2. Hänellä on isot lihakset.<br>3. Lihas on kipeä.	1. The muscle is tired.<br>2. He has big muscles.<br>3. The muscle is sore.	topic::body_parts topic::human_body
+veri	blood	1. Veri on punainen.<br>2. Haavasta tulee verta.<br>3. Veri virtaa.	1. Blood is red.<br>2. Blood comes from the wound.<br>3. Blood flows.	topic::body_parts topic::human_body
+kipeä	sore, painful	1. Jalka on kipeä.<br>2. Minulla on kipeä vatsa.<br>3. Onko sinulla kipeä?	1. The leg is sore.<br>2. I have a sore stomach.<br>3. Are you in pain?	topic::body_parts topic::human_body
+terve	healthy	1. Minä olen terve.<br>2. Hänellä on terve keho.<br>3. Oletko sinä terve?	1. I am healthy.<br>2. He has a healthy body.<br>3. Are you healthy?	topic::body_parts topic::human_body
+väsynyt	tired	1. Minä olen väsynyt.<br>2. Jalat ovat väsyneet.<br>3. Hän on väsynyt.	1. I am tired.<br>2. The legs are tired.<br>3. She is tired.	topic::body_parts topic::human_body
+koskettaa	to touch	1. Hän koskettaa nenää.<br>2. Minä kosketan käsivartta.<br>3. Älä kosketa silmää.	1. He touches his nose.<br>2. I touch the arm.<br>3. Do not touch the eye.	topic::body_parts topic::human_body
+liikkua	to move	1. Keho liikkuu.<br>2. Minä liikun joka päivä.<br>3. Jalat liikkuvat nopeasti.	1. The body moves.<br>2. I move every day.<br>3. The legs move fast.	topic::body_parts topic::human_body
+keho	body	1. Keho on vahva.<br>2. Minulla on terve keho.<br>3. Kehossa on monta osaa.	1. The body is strong.<br>2. I have a healthy body.<br>3. The body has many parts.	topic::body_parts topic::human_body
+word1	face	1. Minulla on pyöreä kasvot.<br>2. Hän pesee kasvot aamulla.<br>3. Kasvot ovat punainen.	1. I have a round face.<br>2. She washes her face in the morning.<br>3. The face is red.	topic::body_parts topic::human_body
+word2	shoulder	1. Minun olkapää on kipeä.<br>2. Hän kantaa laukun olkapäällä.<br>3. Olkapää on iso.	1. My shoulder hurts.<br>2. He carries the bag on his shoulder.<br>3. The shoulder is big.	topic::body_parts topic::human_body
+word3	neck	1. Minun niska on väsynyt.<br>2. Hänellä on pitkä niska.<br>3. Niska on takana.	1. My neck is tired.<br>2. She has a long neck.<br>3. The neck is at the back.	topic::body_parts topic::human_body
+word4	thumb	1. Peukaloni on iso sormi.<br>2. Hän näyttää peukalon.<br>3. Peukalo on käden osa.	1. My thumb is a big finger.<br>2. He shows his thumb.<br>3. The thumb is part of the hand.	topic::body_parts topic::human_body
+word5	breathe	1. Minä hengitän hitaasti.<br>2. Hengitä syvään!<br>3. Hän hengittää nopeasti.	1. I breathe slowly.<br>2. Breathe deeply!<br>3. She breathes fast.	topic::body_parts topic::human_body

@@ -1,0 +1,27 @@
+#separator:tab
+#html:true
+tunne	feeling, emotion	1. Minulla on hyvä tunne.<br>2. Se on tuttu tunne.<br>3. Mikä tunne sinulla on?	1. I have a good feeling.<br>2. It is a familiar feeling.<br>3. What feeling do you have?	topic::emotions topic::feelings topic::mood
+olla	to be	1. Olen iloinen tänään.<br>2. Hän on surullinen.<br>3. Oletko väsynyt?	1. I am happy today.<br>2. He is sad.<br>3. Are you tired?	topic::emotions topic::feelings topic::mood
+iloinen	happy, cheerful	1. Lapsi on iloinen.<br>2. Olen iloinen sinusta.<br>3. Hän näyttää iloiselta.	1. The child is happy.<br>2. I am happy about you.<br>3. She looks happy.	topic::emotions topic::feelings topic::mood
+surullinen	sad	1. Olen surullinen tänään.<br>2. Miksi olet surullinen?<br>3. Hän on hyvin surullinen.	1. I am sad today.<br>2. Why are you sad?<br>3. He is very sad.	topic::emotions topic::feelings topic::mood
+väsynyt	tired	1. Olen todella väsynyt.<br>2. Hän on väsynyt töistä.<br>3. Oletko väsynyt?	1. I am really tired.<br>2. She is tired from work.<br>3. Are you tired?	topic::emotions topic::feelings topic::mood
+vihainen	angry	1. Hän on vihainen.<br>2. Olen hieman vihainen.<br>3. Miksi olet vihainen?	1. He is angry.<br>2. I am a little angry.<br>3. Why are you angry?	topic::emotions topic::feelings topic::mood
+pelätä	to be afraid, fear	1. Pelkään pimeää.<br>2. Lapsi pelkää koiraa.<br>3. Hän ei pelkää mitään.	1. I am afraid of the dark.<br>2. The child is afraid of the dog.<br>3. He is not afraid of anything.	topic::emotions topic::feelings topic::mood
+rakastaa	to love	1. Rakastan sinua.<br>2. Hän rakastaa perhettään.<br>3. Rakastan tätä paikkaa.	1. I love you.<br>2. She loves her family.<br>3. I love this place.	topic::emotions topic::feelings topic::mood
+tykätä	to like	1. Tykkään musiikista.<br>2. Hän tykkää kahvista.<br>3. Tykkäätkö tästä?	1. I like music.<br>2. She likes coffee.<br>3. Do you like this?	topic::emotions topic::feelings topic::mood
+onnellinen	happy, joyful	1. Olen onnellinen.<br>2. Hän on hyvin onnellinen.<br>3. Perhe on onnellinen.	1. I am happy.<br>2. He is very happy.<br>3. The family is happy.	topic::emotions topic::feelings topic::mood
+huolestunut	worried	1. Olen huolestunut.<br>2. Hän on huolestunut sinusta.<br>3. Miksi olet huolestunut?	1. I am worried.<br>2. She is worried about you.<br>3. Why are you worried?	topic::emotions topic::feelings topic::mood
+jännittynyt	nervous, excited	1. Olen jännittynyt.<br>2. Hän on jännittynyt kokeesta.<br>3. Oletko jännittynyt?	1. I am nervous.<br>2. She is nervous about the test.<br>3. Are you nervous?	topic::emotions topic::feelings topic::mood
+nauraa	to laugh	1. Hän nauraa paljon.<br>2. Nauramme yhdessä.<br>3. Lapsi nauraa.	1. She laughs a lot.<br>2. We laugh together.<br>3. The child laughs.	topic::emotions topic::feelings topic::mood
+itkeä	to cry	1. Hän itkee.<br>2. Lapsi itkee usein.<br>3. Miksi itket?	1. She is crying.<br>2. The child cries often.<br>3. Why are you crying?	topic::emotions topic::feelings topic::mood
+yllättynyt	surprised	1. Olen yllättynyt.<br>2. Hän on yllättynyt lahjasta.<br>3. Oletko yllättynyt?	1. I am surprised.<br>2. She is surprised by the gift.<br>3. Are you surprised?	topic::emotions topic::feelings topic::mood
+kyllästynyt	bored	1. Olen kyllästynyt.<br>2. Hän on kyllästynyt kotona.<br>3. Lapsi on kyllästynyt.	1. I am bored.<br>2. He is bored at home.<br>3. The child is bored.	topic::emotions topic::feelings topic::mood
+hermostunut	nervous, anxious	1. Olen hermostunut.<br>2. Hän on hermostunut.<br>3. Miksi olet hermostunut?	1. I am nervous.<br>2. He is nervous.<br>3. Why are you nervous?	topic::emotions topic::feelings topic::mood
+mieliala	mood	1. Minulla on hyvä mieliala.<br>2. Hänen mielialansa on huono.<br>3. Mieliala on tärkeä.	1. I am in a good mood.<br>2. His mood is bad.<br>3. Mood is important.	topic::emotions topic::feelings topic::mood
+rentoutunut	relaxed	1. Olen rentoutunut.<br>2. Hän on rentoutunut kotona.<br>3. Tunnen oloni rentoutuneeksi.	1. I am relaxed.<br>2. She is relaxed at home.<br>3. I feel relaxed.	topic::emotions topic::feelings topic::mood
+rohkea	brave, bold	1. Hän on rohkea.<br>2. Ole rohkea!<br>3. Sinä olet rohkea.	1. She is brave.<br>2. Be brave!<br>3. You are brave.	topic::emotions topic::feelings topic::mood
+häpeä	shame, embarrassment	1. Tunnen häpeää.<br>2. Hänellä on häpeä.<br>3. Häpeä on paha tunne.	1. I feel shame.<br>2. He feels embarrassed.<br>3. Shame is a bad feeling.	topic::emotions topic::feelings topic::mood
+toivoa	to hope, wish	1. Toivon sinulle hyvää.<br>2. Hän toivoo hyvää säätä.<br>3. Toivon sinun olevan hyvin.	1. I wish you well.<br>2. She hopes for good weather.<br>3. I hope you are well.	topic::emotions topic::feelings topic::mood
+hyvä	good	1. Minulla on hyvä olo.<br>2. Tämä on hyvä tunne.<br>3. Hän on hyvällä tuulella.	1. I feel good.<br>2. This is a good feeling.<br>3. She is in a good mood.	topic::emotions topic::feelings topic::mood
+paha	bad, evil	1. Minulla on paha olo.<br>2. Tämä on paha tunne.<br>3. Hänellä on paha mieli.	1. I feel bad.<br>2. This is a bad feeling.<br>3. He feels bad.	topic::emotions topic::feelings topic::mood
+rauhalliinen	calm, peaceful	1. Hän on rauhallinen.<br>2. Olen rauhallinen nyt.<br>3. Ole rauhallinen.	1. She is calm.<br>2. I am calm now.<br>3. Be calm.	topic::emotions topic::feelings topic::mood

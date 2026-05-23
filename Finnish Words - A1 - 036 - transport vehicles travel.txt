@@ -1,0 +1,37 @@
+#separator:tab
+#html:true
+auto	car	1. Minulla on auto.<br>2. Auto on punainen.<br>3. Isä ajaa autoa.	1. I have a car.<br>2. The car is red.<br>3. Dad drives a car.	topic::transport topic::vehicles topic::travel
+bussi	bus	1. Bussi tulee kohta.<br>2. Menen kouluun bussilla.<br>3. Bussi on iso.	1. The bus is coming soon.<br>2. I go to school by bus.<br>3. The bus is big.	topic::transport topic::vehicles topic::travel
+juna	train	1. Juna on nopea.<br>2. Otan junan Helsinkiin.<br>3. Juna lähtee nyt.	1. The train is fast.<br>2. I take the train to Helsinki.<br>3. The train is leaving now.	topic::transport topic::vehicles topic::travel
+lentokone	airplane	1. Lentokone on taivaalla.<br>2. Lentokone on nopea.<br>3. Näen lentokoneen.	1. The airplane is in the sky.<br>2. The airplane is fast.<br>3. I see the airplane.	topic::transport topic::vehicles topic::travel
+polkupyörä	bicycle	1. Minulla on polkupyörä.<br>2. Polkupyörä on sininen.<br>3. Ajaan polkupyörällä.	1. I have a bicycle.<br>2. The bicycle is blue.<br>3. I ride a bicycle.	topic::transport topic::vehicles topic::travel
+taksi	taxi	1. Otan taksin kotiin.<br>2. Taksi on kallis.<br>3. Missä on taksi?	1. I take a taxi home.<br>2. The taxi is expensive.<br>3. Where is the taxi?	topic::transport topic::vehicles topic::travel
+laiva	ship, boat	1. Laiva on merellä.<br>2. Laiva on suuri.<br>3. Matkustamme laivalla.	1. The ship is at sea.<br>2. The ship is large.<br>3. We travel by ship.	topic::transport topic::vehicles topic::travel
+metro	metro, subway	1. Metro on nopea.<br>2. Otan metron töihin.<br>3. Metro tulee pian.	1. The metro is fast.<br>2. I take the metro to work.<br>3. The metro is coming soon.	topic::transport topic::vehicles topic::travel
+matkustaa	to travel	1. Haluan matkustaa.<br>2. Matkustamme junalla.<br>3. Hän matkustaa usein.	1. I want to travel.<br>2. We travel by train.<br>3. She travels often.	topic::transport topic::vehicles topic::travel
+ajaa	to drive, to ride	1. Hän ajaa autoa.<br>2. Ajatko bussilla?<br>3. Ajaa nopeasti.	1. He drives a car.<br>2. Are you going by bus?<br>3. He drives fast.	topic::transport topic::vehicles topic::travel
+lentää	to fly	1. Lentokone lentää korkealla.<br>2. Haluan lentää.<br>3. Me lennämme huomenna.	1. The airplane flies high.<br>2. I want to fly.<br>3. We fly tomorrow.	topic::transport topic::vehicles topic::travel
+kävellä	to walk	1. Kävelen kotiin.<br>2. Hän kävelee hitaasti.<br>3. Kävelemme puistossa.	1. I walk home.<br>2. She walks slowly.<br>3. We walk in the park.	topic::transport topic::vehicles topic::travel
+lähteä	to leave, to depart	1. Juna lähtee kohta.<br>2. Lähden kotoa aamulla.<br>3. Milloin bussi lähtee?	1. The train leaves soon.<br>2. I leave home in the morning.<br>3. When does the bus leave?	topic::transport topic::vehicles topic::travel
+saapua	to arrive	1. Juna saapuu nyt.<br>2. Milloin saavumme?<br>3. Hän saapuu myöhään.	1. The train arrives now.<br>2. When do we arrive?<br>3. He arrives late.	topic::transport topic::vehicles topic::travel
+ostaa	to buy	1. Ostan lipun.<br>2. Hän ostaa bussikortin.<br>3. Ostataan liput yhdessä.	1. I buy a ticket.<br>2. She buys a bus card.<br>3. Let's buy the tickets together.	topic::transport topic::vehicles topic::travel
+lippu	ticket	1. Tarvitsen lipun.<br>2. Lippu on edullinen.<br>3. Missä myydään lippuja?	1. I need a ticket.<br>2. The ticket is affordable.<br>3. Where are tickets sold?	topic::transport topic::vehicles topic::travel
+asema	station	1. Juna-asema on iso.<br>2. Missä on asema?<br>3. Odotan asemalla.	1. The train station is big.<br>2. Where is the station?<br>3. I wait at the station.	topic::transport topic::vehicles topic::travel
+lentokenttä	airport	1. Lentokenttä on kaukana.<br>2. Menemme lentokentälle.<br>3. Lentokenttä on iso.	1. The airport is far away.<br>2. We go to the airport.<br>3. The airport is big.	topic::transport topic::vehicles topic::travel
+pysäkki	bus stop	1. Odotan pysäkillä.<br>2. Pysäkki on lähellä.<br>3. Missä on pysäkki?	1. I wait at the bus stop.<br>2. The bus stop is nearby.<br>3. Where is the bus stop?	topic::transport topic::vehicles topic::travel
+matka	journey, trip	1. Matka on pitkä.<br>2. Hyvää matkaa!<br>3. Matka kestää tunti.	1. The journey is long.<br>2. Have a good trip!<br>3. The trip takes an hour.	topic::transport topic::vehicles topic::travel
+kartta	map	1. Minulla on kartta.<br>2. Katson karttaa.<br>3. Kartta on hyödyllinen.	1. I have a map.<br>2. I look at the map.<br>3. The map is useful.	topic::transport topic::vehicles topic::travel
+tie	road, way	1. Tie on pitkä.<br>2. Auto ajaa tiellä.<br>3. Tie on kapea.	1. The road is long.<br>2. The car drives on the road.<br>3. The road is narrow.	topic::transport topic::vehicles topic::travel
+nopea	fast, quick	1. Juna on nopea.<br>2. Hän ajaa nopeasti.<br>3. Tämä bussi on nopea.	1. The train is fast.<br>2. He drives fast.<br>3. This bus is fast.	topic::transport topic::vehicles topic::travel
+hidas	slow	1. Bussi on hidas.<br>2. Hän kävelee hitaasti.<br>3. Matka on hidas.	1. The bus is slow.<br>2. She walks slowly.<br>3. The journey is slow.	topic::transport topic::vehicles topic::travel
+kallis	expensive	1. Taksi on kallis.<br>2. Lippu on kallis.<br>3. Lento on kallis.	1. The taxi is expensive.<br>2. The ticket is expensive.<br>3. The flight is expensive.	topic::transport topic::vehicles topic::travel
+halpa	cheap, inexpensive	1. Bussi on halpa.<br>2. Lippu on halpa.<br>3. Haluamme halvan lipun.	1. The bus is cheap.<br>2. The ticket is cheap.<br>3. We want a cheap ticket.	topic::transport topic::vehicles topic::travel
+odottaa	to wait	1. Odotan bussia.<br>2. He odottavat junaa.<br>3. Kuinka kauan odotamme?	1. I wait for the bus.<br>2. They wait for the train.<br>3. How long do we wait?	topic::transport topic::vehicles topic::travel
+lähellä	near, close	1. Asema on lähellä.<br>2. Pysäkki on lähellä.<br>3. Hotelli on lähellä.	1. The station is near.<br>2. The bus stop is close.<br>3. The hotel is nearby.	topic::transport topic::vehicles topic::travel
+kaukana	far away	1. Lentokenttä on kaukana.<br>2. Kaupunki on kaukana.<br>3. Onko se kaukana?	1. The airport is far away.<br>2. The city is far away.<br>3. Is it far away?	topic::transport topic::vehicles topic::travel
+kuljettaja	driver	1. Kuljettaja on ystävällinen.<br>2. Bussin kuljettaja puhuu.<br>3. Kuljettaja ajaa hyvin.	1. The driver is friendly.<br>2. The bus driver speaks.<br>3. The driver drives well.	topic::transport topic::vehicles topic::travel
+satama	harbour, port	1. Laiva on satamassa.<br>2. Satama on lähellä.<br>3. Me menemme satamaan.	1. The ship is at the harbour.<br>2. The harbour is nearby.<br>3. We are going to the harbour.	topic::transport topic::vehicles topic::travel
+pyörä	bike, wheel	1. Minulla on pyörä.<br>2. Pyörä on nopea.<br>3. Hän ajaa pyörällä.	1. I have a bike.<br>2. The bike is fast.<br>3. She rides a bike.	topic::transport topic::vehicles topic::travel
+nousta	to get on, board	1. Nousen bussiin.<br>2. Hän nousee junaan.<br>3. Me nousemme lentokoneeseen.	1. I get on the bus.<br>2. He boards the train.<br>3. We board the plane.	topic::transport topic::vehicles topic::travel
+istua	to sit	1. Istun bussissa.<br>2. Hän istuu junassa.<br>3. Me istumme autossa.	1. I sit on the bus.<br>2. She sits on the train.<br>3. We sit in the car.	topic::transport topic::vehicles topic::travel
+reitti	route	1. Reitti on lyhyt.<br>2. Tämä reitti on helppo.<br>3. Mikä reitti on nopea?	1. The route is short.<br>2. This route is easy.<br>3. Which route is fast?	topic::transport topic::vehicles topic::travel

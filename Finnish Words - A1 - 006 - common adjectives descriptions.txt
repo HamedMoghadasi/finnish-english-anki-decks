@@ -1,0 +1,42 @@
+#separator:tab
+#html:true
+hyvä	good	1. Tämä ruoka on hyvä.<br>2. Sinulla on hyvä idea.<br>3. Koira on hyvä.	1. This food is good.<br>2. You have a good idea.<br>3. The dog is good.	topic::common_adjectives topic::descriptions
+huono	bad	1. Sää on huono tänään.<br>2. Tämä on huono idea.<br>3. Elokuva on huono.	1. The weather is bad today.<br>2. This is a bad idea.<br>3. The movie is bad.	topic::common_adjectives topic::descriptions
+iso	big, large	1. Talo on iso.<br>2. Minulla on iso koira.<br>3. Kaupunki on iso.	1. The house is big.<br>2. I have a big dog.<br>3. The city is big.	topic::common_adjectives topic::descriptions
+pieni	small, little	1. Kissa on pieni.<br>2. Tämä huone on pieni.<br>3. Minulla on pieni auto.	1. The cat is small.<br>2. This room is small.<br>3. I have a small car.	topic::common_adjectives topic::descriptions
+uusi	new	1. Minulla on uusi auto.<br>2. Tämä on uusi kirja.<br>3. Koulu on uusi.	1. I have a new car.<br>2. This is a new book.<br>3. The school is new.	topic::common_adjectives topic::descriptions
+vanha	old	1. Tämä talo on vanha.<br>2. Minulla on vanha puhelin.<br>3. Auto on vanha.	1. This house is old.<br>2. I have an old phone.<br>3. The car is old.	topic::common_adjectives topic::descriptions
+kaunis	beautiful	1. Kukat ovat kauniit.<br>2. Tämä maisema on kaunis.<br>3. Ilma on kaunis.	1. The flowers are beautiful.<br>2. This landscape is beautiful.<br>3. The weather is beautiful.	topic::common_adjectives topic::descriptions
+ruma	ugly	1. Tämä rakennus on ruma.<br>2. Väri on ruma.<br>3. Taulua on ruma.	1. This building is ugly.<br>2. The color is ugly.<br>3. The painting is ugly.	topic::common_adjectives topic::descriptions
+nopea	fast, quick	1. Auto on nopea.<br>2. Hän on nopea juoksija.<br>3. Juna on nopea.	1. The car is fast.<br>2. He is a fast runner.<br>3. The train is fast.	topic::common_adjectives topic::descriptions
+hidas	slow	1. Kilpikonna on hidas.<br>2. Bussi on hidas tänään.<br>3. Tietokone on hidas.	1. The turtle is slow.<br>2. The bus is slow today.<br>3. The computer is slow.	topic::common_adjectives topic::descriptions
+lämmin	warm	1. Kahvi on lämmin.<br>2. Ilma on lämmin.<br>3. Vesi on lämmin.	1. The coffee is warm.<br>2. The air is warm.<br>3. The water is warm.	topic::common_adjectives topic::descriptions
+kylmä	cold	1. Talvi on kylmä.<br>2. Vesi on kylmä.<br>3. Minulla on kylmä.	1. Winter is cold.<br>2. The water is cold.<br>3. I am cold.	topic::common_adjectives topic::descriptions
+kuuma	hot	1. Kahvi on kuuma.<br>2. Kesä on kuuma.<br>3. Ruoka on kuuma.	1. The coffee is hot.<br>2. Summer is hot.<br>3. The food is hot.	topic::common_adjectives topic::descriptions
+helppo	easy	1. Tämä tehtävä on helppo.<br>2. Suomi ei ole helppo kieli.<br>3. Peli on helppo.	1. This task is easy.<br>2. Finnish is not an easy language.<br>3. The game is easy.	topic::common_adjectives topic::descriptions
+vaikea	difficult, hard	1. Koe on vaikea.<br>2. Tämä kysymys on vaikea.<br>3. Työ on vaikea.	1. The test is difficult.<br>2. This question is difficult.<br>3. The work is hard.	topic::common_adjectives topic::descriptions
+kallis	expensive	1. Auto on kallis.<br>2. Tämä ravintola on kallis.<br>3. Puhelin on kallis.	1. The car is expensive.<br>2. This restaurant is expensive.<br>3. The phone is expensive.	topic::common_adjectives topic::descriptions
+halpa	cheap, inexpensive	1. Tämä kauppa on halpa.<br>2. Lippu on halpa.<br>3. Ruoka on halpa täällä.	1. This store is cheap.<br>2. The ticket is cheap.<br>3. The food is cheap here.	topic::common_adjectives topic::descriptions
+pitkä	long, tall	1. Hän on pitkä.<br>2. Matka on pitkä.<br>3. Tukka on pitkä.	1. He is tall.<br>2. The journey is long.<br>3. The hair is long.	topic::common_adjectives topic::descriptions
+lyhyt	short	1. Hän on lyhyt.<br>2. Tarina on lyhyt.<br>3. Tie on lyhyt.	1. She is short.<br>2. The story is short.<br>3. The road is short.	topic::common_adjectives topic::descriptions
+väsynyt	tired	1. Minä olen väsynyt.<br>2. Koira on väsynyt.<br>3. Hän on väsynyt töistä.	1. I am tired.<br>2. The dog is tired.<br>3. He is tired from work.	topic::common_adjectives topic::descriptions
+sairas	sick, ill	1. Minä olen sairas.<br>2. Lapsi on sairas.<br>3. Hän on sairas kotona.	1. I am sick.<br>2. The child is sick.<br>3. She is sick at home.	topic::common_adjectives topic::descriptions
+terve	healthy	1. Hän on terve.<br>2. Omena on terve ruoka.<br>3. Minä olen terve nyt.	1. He is healthy.<br>2. An apple is healthy food.<br>3. I am healthy now.	topic::common_adjectives topic::descriptions
+iloinen	happy, cheerful	1. Lapsi on iloinen.<br>2. Hän on aina iloinen.<br>3. Koira on iloinen.	1. The child is happy.<br>2. She is always cheerful.<br>3. The dog is happy.	topic::common_adjectives topic::descriptions
+surullinen	sad	1. Hän on surullinen.<br>2. Elokuva on surullinen.<br>3. Minä olen surullinen.	1. He is sad.<br>2. The movie is sad.<br>3. I am sad.	topic::common_adjectives topic::descriptions
+nälkäinen	hungry	1. Minä olen nälkäinen.<br>2. Lapsi on nälkäinen.<br>3. Kissa on nälkäinen.	1. I am hungry.<br>2. The child is hungry.<br>3. The cat is hungry.	topic::common_adjectives topic::descriptions
+täynnä	full	1. Laukku on täynnä.<br>2. Minä olen täynnä.<br>3. Bussi on täynnä.	1. The bag is full.<br>2. I am full.<br>3. The bus is full.	topic::common_adjectives topic::descriptions
+tyhjä	empty	1. Lasi on tyhjä.<br>2. Huone on tyhjä.<br>3. Laukku on tyhjä.	1. The glass is empty.<br>2. The room is empty.<br>3. The bag is empty.	topic::common_adjectives topic::descriptions
+puhdas	clean	1. Huone on puhdas.<br>2. Vesi on puhdas.<br>3. Paita on puhdas.	1. The room is clean.<br>2. The water is clean.<br>3. The shirt is clean.	topic::common_adjectives topic::descriptions
+likainen	dirty	1. Koira on likainen.<br>2. Paita on likainen.<br>3. Kädet ovat likaiset.	1. The dog is dirty.<br>2. The shirt is dirty.<br>3. The hands are dirty.	topic::common_adjectives topic::descriptions
+hiljainen	quiet, silent	1. Kirjasto on hiljainen.<br>2. Lapsi on hiljainen.<br>3. Talo on hiljainen yöllä.	1. The library is quiet.<br>2. The child is quiet.<br>3. The house is quiet at night.	topic::common_adjectives topic::descriptions
+suuri	large, great	1. Talo on suuri.<br>2. Minulla on suuri koira.<br>3. Kaupunki on suuri.	1. The house is large.<br>2. I have a large dog.<br>3. The city is large.	topic::common_adjectives topic::descriptions
+vahva	strong	1. Mies on vahva.<br>2. Hänellä on vahva käsi.<br>3. Tämä kahvi on vahva.	1. The man is strong.<br>2. He has a strong hand.<br>3. This coffee is strong.	topic::common_adjectives topic::descriptions
+heikko	weak	1. Lapsi on heikko.<br>2. Signaali on heikko.<br>3. Olen tänään heikko.	1. The child is weak.<br>2. The signal is weak.<br>3. I am weak today.	topic::common_adjectives topic::descriptions
+raskas	heavy	1. Laukku on raskas.<br>2. Tämä kivi on raskas.<br>3. Työ on raskas.	1. The bag is heavy.<br>2. This stone is heavy.<br>3. The work is heavy.	topic::common_adjectives topic::descriptions
+kevyt	light, lightweight	1. Takki on kevyt.<br>2. Tämä kirja on kevyt.<br>3. Ruoka on kevyt.	1. The coat is light.<br>2. This book is light.<br>3. The food is light.	topic::common_adjectives topic::descriptions
+märkä	wet	1. Hiukseni ovat märät.<br>2. Lattia on märkä.<br>3. Paita on märkä.	1. My hair is wet.<br>2. The floor is wet.<br>3. The shirt is wet.	topic::common_adjectives topic::descriptions
+kuiva	dry	1. Ilma on kuiva.<br>2. Kädet ovat kuivat.<br>3. Leipä on kuiva.	1. The air is dry.<br>2. The hands are dry.<br>3. The bread is dry.	topic::common_adjectives topic::descriptions
+kova	hard, tough	1. Pöytä on kova.<br>2. Tämä tuoli on kova.<br>3. Hänellä on kova ääni.	1. The table is hard.<br>2. This chair is hard.<br>3. He has a loud voice.	topic::common_adjectives topic::descriptions
+pehmeä	soft	1. Tyyny on pehmeä.<br>2. Kissa on pehmeä.<br>3. Tämä leipä on pehmeä.	1. The pillow is soft.<br>2. The cat is soft.<br>3. This bread is soft.	topic::common_adjectives topic::descriptions
+tärkeä	important	1. Tämä on tärkeä asia.<br>2. Koulu on tärkeä.<br>3. Se on minulle tärkeä.	1. This is an important matter.<br>2. School is important.<br>3. It is important to me.	topic::common_adjectives topic::descriptions
