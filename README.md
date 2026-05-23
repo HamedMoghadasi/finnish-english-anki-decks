@@ -1,5 +1,10 @@
-# Finnish to English Words
-A curated collection of Finnish to English vocabulary files for language learners, organized by CEFR level.
+# Finnish to English Words 
+A curated collection of Finnish to English vocabulary files for language learners, organized by CEFR level. 
+
+## Generated With
+These word lists were generated using this tool:
+
+[HamedMoghadasi/anthropic-anki-deck-generator](https://github.com/HamedMoghadasi/anthropic-anki-deck-generator)
 
 ## Overview
 This repository contains topic-based Finnish vocabulary sets with English meanings and example sentences.
